@@ -22,13 +22,9 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 ```
 /*
 Program to find the solution of a matrix using Gaussian Elimination.
-Developed by: 
-RegisterNumber: 
+Developed by: kathiravan.p
+RegisterNumber:212222230063 
 */
-```
-'''Program to solve a matrix using Gaussian elimination with partial pivoting.
-Developed by:kathiravan.p 
-RegisterNumber:21222230063 
 '''
 import numpy as np
 import sys
@@ -60,6 +56,7 @@ for i in range(n):
 
 
 
+![2023-06-08 (3)](https://github.com/kathiravan13/Gaussian/assets/119831303/6f1d27a0-d4ab-46df-ab1b-d6aa7504a697)
 
 
 
